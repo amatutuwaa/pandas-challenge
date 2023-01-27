@@ -27,23 +27,23 @@ In this sub-catergory I perform the necessary calculations and then create a Dat
   10.% overall passing (the percentage of students who passed math AND reading)
   
   
-# Highest-Performing Schools (by % Overall Passing)
+### Highest-Performing Schools (by % Overall Passing)
 In this sub-catergory I sort the schools by % Overall Passing in descending order and display the top 5 rows and save the results in a DataFrame called "top_schools".
 
 
-# Lowest-Performing Schools (by % Overall Passing)
+### Lowest-Performing Schools (by % Overall Passing)
 In this sub-catergory I sort the schools by % Overall Passing in ascending order and display the top 5 rows and save the results in a DataFrame called "bottom_schools".
 
 
-# Math Scores by Grade
+### Math Scores by Grade
 In this sub-catergory I perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-# Reading Scores by Grade
+### Reading Scores by Grade
 In this sub-catergory I create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-# Scores by School Spending
+### Scores by School Spending
 In this sub-catergory I create a table that breaks down school performance based on average spending ranges (per student). I then use the scores above to create a DataFrame called "spending_summary" which includes the following metrics in the table:
 1. Average math score
 2. Average reading score
@@ -52,9 +52,9 @@ In this sub-catergory I create a table that breaks down school performance based
 5. % overall passing (the percentage of students who passed math AND reading)
 
 
-# Scores by School Size
-In this sub-catergory I create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+### Scores by School Size
+In this sub-catergory I create a DataFrame called "size_summary" that breaks down school performance based on school size (small, medium, or large).
 
 
-Scores by School Type
-In this sub-catergory I creaste a DataFrame that shows school performance based on the "School Type"
+### Scores by School Type
+In this sub-catergory I create a DataFrame that shows school performance based on the "School Type"
