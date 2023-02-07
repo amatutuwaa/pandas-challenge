@@ -1,6 +1,6 @@
 # PANDAS-CHALLENGE
 This Pandas Project helps a local school board and mayor make strategic decisions regarding future school budgets and priorities.
-The project analyzes the district-wide standardized test results using the data of student's math and reading scores, as well as various information on the schools they attend. The overarching task is to aggregate the data and showcase obvious trends in school performance.
+The project analyzes the district-wide standardized test results using student's math and reading scores data, as well as various information about the schools they attend. The overarching task is to aggregate the data and showcase obvious trends in school performance as well as to draw conclusions on what factors might be propagatng these trends based on the given data.
 
 ### District Summary
 In this sub-catergory I perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame to include the following:
